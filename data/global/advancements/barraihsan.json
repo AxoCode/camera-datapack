@@ -1,0 +1,18 @@
+{
+	"display": {
+		"title": "BarraIhsan   ",
+		"description": ["",{"text": "All loaded BarraIhsan datapacks","color": "gold"},{"text": "\n@BarraIhsan on \n","color": "yellow"},{"text": "PlanetMinecraft","color": "aqua"}],
+		"icon": {
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner: 'BarraIhsan'}"
+		},
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "global:root",
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
