@@ -11,7 +11,7 @@ This datapack will allow you to spectate the world without having OP!
 	- [Check](#check)
 
 ## Credit
-This camera datapack was inspired by [scarpet cam app](https://github.com/gnembon/scarpet/blob/master/programs/survival/cam.sc) by @gnembon
+This camera datapack was inspired by [scarpet cam app](https://github.com/gnembon/scarpet/blob/master/programs/survival/cam.sc) by [@gnembon](https://github.com/gnembon)
 
 ## Info
 You can run `/trigger camera` to switch into spectator mode. At camera mode, you have `[Camera]` prefix, and you cannot switch gamemode (by using command, or F3 + F4) while in camera mode. To mark your spot, I use Armor Stand with your name, armor, mainhand, and offhand. The armor stand cannot be moved and killed (except using `/kill`).  
