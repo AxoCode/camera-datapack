@@ -16,7 +16,7 @@ schedule clear camera:tick
 
 # Remove scoreboard
 scoreboard objectives remove camera
-scoreboard objectives remove camera.help
+scoreboard objectives remove camera.setting
 scoreboard objectives remove camera.uuid0
 scoreboard objectives remove camera.uuid1
 scoreboard objectives remove camera.uuid2

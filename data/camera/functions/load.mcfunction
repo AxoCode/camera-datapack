@@ -7,7 +7,7 @@
 
 # Create scoreboard
 scoreboard objectives add camera trigger
-scoreboard objectives add camera.help trigger
+scoreboard objectives add camera.setting trigger
 scoreboard objectives add camera.uuid0 dummy
 scoreboard objectives add camera.uuid1 dummy
 scoreboard objectives add camera.uuid2 dummy
